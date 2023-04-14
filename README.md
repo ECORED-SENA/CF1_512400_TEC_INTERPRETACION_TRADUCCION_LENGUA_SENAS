@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF1_512400_TEC_INTERPRETACION_TRADUCCION_LENGUA_SENAS/](https://ecored-sena.github.io/CF1_512400_TEC_INTERPRETACION_TRADUCCION_LENGUA_SENAS/)
 
 #
 
