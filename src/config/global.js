@@ -39,7 +39,6 @@ export default {
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
         numero: '1',
         titulo: 'Logística del servicio',
         desarrolloContenidos: true,
@@ -47,35 +46,30 @@ export default {
 
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
         numero: '2',
         titulo: 'Atención al usuario',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
         numero: '3',
         titulo: 'Fundamentación conceptual de comunidad y cultura',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
         numero: '4',
         titulo: 'Inclusión y discapacidad',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
-        icono: 'far fa-file-alt',
         numero: '5',
         titulo: 'Trabajo en equipo',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema6',
-        icono: 'far fa-file-alt',
         numero: '6',
         titulo:
           'Aspectos administrativos y contratación (legislación, parafiscales)',
@@ -83,7 +77,6 @@ export default {
       },
       {
         nombreRuta: 'tema7',
-        icono: 'far fa-file-alt',
         numero: '7',
         titulo: 'Perfiles y funciones del intérprete',
         desarrolloContenidos: true,
