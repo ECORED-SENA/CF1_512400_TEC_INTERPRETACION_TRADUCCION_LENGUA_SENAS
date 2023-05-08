@@ -16,19 +16,25 @@
           b.t-red es también proporcionar los estándares de comunicación y de la proyección de una imagen personal, segura, eficiente y eficaz, para satisfacer de manera oportuna los requerimientos que solicitan nuestros usuarios.
 
     .row.align-items-center.mb-5
-      .col-md-8(data-aos="fade-right")
-        .bloque-texto-b.color-acento-contenido.comillas.p-4.mb-4
-          .bloque-texto-b__texto
-            i.fas.fa-quote-left
-            h4.mb-3 El Estado colombiano reconoce la Lengua Manual Colombiana, como idioma propio de la Comunidad Sorda del País  #[br]#[br]
-            h5.text-right López, (2015).
-            i.fas.fa-quote-right
-        .bloque-texto-b.color-acento-contenido.comillas.bor-top.p-4.mb-4
-          .bloque-texto-b__texto
-            i.fas.fa-quote-left
-            h4.mb-3 Las entidades estatales de cualquier orden, incorporan paulatinamente dentro de los programas de atención al cliente, el servicio de intérprete y guía intérprete para las personas sordas y sordociegas que lo requieran de manera directa o mediante convenios con organismos que ofrezcan tal servicio.”  #[br]#[br]
-            h5.text-right Ley 982 de 2005
-            i.fas.fa-quote-right
+      .col-md-8.mb-4.mb-md-0(data-aos="fade-right")
+        .tarjeta.bg-9.box-shadow.py-4.px-3
+          SlyderA(tipo="b")
+            .row.justify-content-center
+              .col-md-11
+                .bloque-texto-b.color-acento-contenido.comillas.p-4.mb-4
+                  .bloque-texto-b__texto
+                    i.fas.fa-quote-left
+                    h4.mb-3 El Estado colombiano reconoce la Lengua Manual Colombiana, como idioma propio de la Comunidad Sorda del País  #[br]#[br]
+                    h5.text-right López, (2015).
+                    i.fas.fa-quote-right
+            .row.justify-content-center 
+              .col-md-11
+                .bloque-texto-b.color-acento-contenido.comillas.p-4.mb-4
+                  .bloque-texto-b__texto
+                    i.fas.fa-quote-left
+                    h4.mb-3 Las entidades estatales de cualquier orden, incorporan paulatinamente dentro de los programas de atención al cliente, el servicio de intérprete y guía intérprete para las personas sordas y sordociegas que lo requieran de manera directa o mediante convenios con organismos que ofrezcan tal servicio.”  #[br]#[br]
+                    h5.text-right Ley 982 de 2005
+                    i.fas.fa-quote-right
       .col-md-4(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema2/img2.png', alt='Imagen decorativa')
 
@@ -57,10 +63,40 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4
 
-        .subt-boc.mb-4(data-aos="fade")
-          h4.text-white.mb-0 Expectativas del usuario
+          .subt-boc.mb-4(data-aos="fade")
+            h4.text-white.mb-0 Expectativas del usuario
 
-        .row.align-items-end.justify-content-center(data-aos="fade-down").d-md-flex.d-lg-flex.d-none
+          .col-md-10
+            ImagenInfografica.tema2.color-acento-botones
+              template(v-slot:imagen)
+                figure.d-md-block.d-none
+                  img(src='@/assets/curso/temas/tema2/img-pc-infog.svg', alt='Niveles de servicio')
+                figure.d-md-none
+                  img(src='@/assets/curso/temas/tema2/img-mob-infog.svg', alt='Niveles de servicio')  
+
+              .tarjeta.bg-10.p-3(x="10%" y="72%" numero="")
+                .h4.mb-2 1- Eficacia
+                p.mb-0 Obtención real de resultados y respuestas.
+              .tarjeta.bg-10.p-3(x="10%" y="91.4%" numero="")
+                .h4.mb-2 2 - Rapidez
+                p.mb-0 El tiempo es un factor fundamental, siempre escaso y valioso.
+              .tarjeta.bg-10.p-3(x="30.5%" y="91.4%" numero="")
+                .h4.mb-2 3 - Facilidad
+                p.mb-0 Simplicidad, comodidad y ahorro de esfuerzo. 
+              .tarjeta.bg-10.p-3(x="50.9%" y="91.4%" numero="")
+                .h4.mb-2 4 - Autonomía
+                p.mb-0 Tendencia a preferir, en lo posible, sistemas de autoservicio. 
+              .tarjeta.bg-10.p-3(x="71.4%" y="91.4%" numero="")
+                .h4.mb-2 5 - Concentración
+                p.mb-0 Encontrar la respuesta completa en un sitio, por una sola vía. 
+              .tarjeta.bg-10.p-3(x="91.7%" y="91.4%" numero="")
+                .h4.mb-2 6 - Fiabilidad
+                p.mb-0 Garantías sobre el valor y calidad de la información recibida. 
+              .tarjeta.bg-10.p-3(x="91.7%" y="72%" numero="")
+                .h4.mb-2 7 - Trato individualizado
+                p.mb-0 Atención a las peculiaridades personales.
+
+        //.row.align-items-end.justify-content-center(data-aos="fade-down").d-md-flex.d-lg-flex.d-none
           .col-lg-2.mb-4
             .tarjeta.tema2
               h5 1- Eficacia
@@ -69,7 +105,7 @@
           .col-lg-2.mb-4
             .tarjeta.tema2
               h5 7 - Trato individualizado
-        .row.align-items-end.justify-content-center.mb-5(data-aos="fade-down").d-md-flex.d-lg-flex.d-none
+        //.row.align-items-end.justify-content-center.mb-5(data-aos="fade-down").d-md-flex.d-lg-flex.d-none
           .col-lg-2.mb-4
             .tarjeta.tema2
               h5 2 - Rapidez
@@ -85,8 +121,7 @@
           .col-lg-2.mb-4
             .tarjeta.tema2
               h5 6 - Fiabilidad 
-
-        .row.align-items-center.mb-5(data-aos="fade-down").d-md-none.d-lg-none
+        //.row.align-items-center.mb-5(data-aos="fade-down").d-md-none.d-lg-none
           .col-12.mb-4
             img(src='@/assets/curso/temas/tema2/img4.svg', alt='Expectativas del usuarios')
           .col-6.mb-4
@@ -120,7 +155,7 @@
         p La política de servicio al cliente son las orientaciones, directrices o procedimientos que rigen la actuación de una persona o entidad frente a sus clientes.
       .tarjeta.p-4(titulo="¿Cuál es su importancia?")
         h4 ¿Cuál es su importancia?
-        p Es la lista priorizada de requisitos para la elaboración del producto, en la que puede intervenir todo el equipo para su elaboración, pero solo el cliente y el director del equipo es responsable de decidir sobre ella.
+        p Su importancia radica en la estandarización de procedimientos que los empleados deben seguir al momento de atender una solicitud, lo que sin duda alguna marca la personalidad de una organización.
       .tarjeta.p-4(titulo="¿Cómo se ejecuta?")
         h4 ¿Cómo se ejecuta?
         p La política de servicio al cliente debe ser compartida con los empleados, puede ser a través de una capacitación o charla programada, donde todos escuchen el procedimiento que deben seguir para atender la solicitud de un cliente, lo que permitirá un mayor control, seguimiento y posterior evaluación de esta.
@@ -142,7 +177,7 @@
 
     .tarjeta.bg-3 
       .row.justify-content-evenly.align-items-center.p-3.p-md-4
-        .col-md-1.col-6
+        .col-md-1.col-5.mb-4.mb-md-0
           img(src='@/assets/curso/temas/tema2/ico2.svg', alt='Icono decorativo')
         .col-md-11.text-white
           p.mb-0 De acuerdo con lo anterior, se tendrán en cuenta diversos tipos de características como: 

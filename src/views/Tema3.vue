@@ -22,7 +22,7 @@
             .subt-3er.mb-5(data-aos="fade")
               h3.text-white.mb-0 Grupos minoritarios
 
-            p.mb-0(data-aos="fade") De acuerdo con la Acnur, Agencia de la ONU para los refugiados (2020), “una minoría es un grupo étnico, religioso o lingüístico, en menor número que el resto de la población”. 
+            p(data-aos="fade") De acuerdo con la Acnur, Agencia de la ONU para los refugiados (2020), “una minoría es un grupo étnico, religioso o lingüístico, en menor número que el resto de la población”. 
             h5.mb-5.t-red(data-aos="fade") Según Capotorti (1977), las minorías pueden incluir algunos grupos, a saber:
 
           .col-md-10.mb-5
@@ -101,7 +101,7 @@
               h5.t-red Convenio 169 de la OIT. 
               p.mb-5 Reconoce el principio de igualdad en relación con las diferencias colectivas e individuales.
               h5.t-red Declaración Universal de los Derechos Lingüísticos publicada por la Unesco en 1996.
-              p.mb-0 Dispone la importancia del uso de la lengua materna en la educación, el derecho a la promoción de las lenguas propias de las comunidades y promueve su uso en asuntos de índole sociopolítico.
+              p Dispone la importancia del uso de la lengua materna en la educación, el derecho a la promoción de las lenguas propias de las comunidades y promueve su uso en asuntos de índole sociopolítico.
               p Cabe resaltar algunos de los derechos más relevantes de esa declaración: 
               ul.lista-ul--color.color-primario.img-listado
                 li 

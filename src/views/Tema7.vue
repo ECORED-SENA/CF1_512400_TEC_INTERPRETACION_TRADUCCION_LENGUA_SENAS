@@ -18,6 +18,8 @@
     figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/3ZiGzK10lk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Perfil del intérprete
+
 
     p(data-aos="fade") Los contextos de interpretación son diversos, afortunadamente las personas sordas han venido haciendo presencia en diferentes escenarios, razón por la que el servicio de interpretación se amplía y plantea nuevos retos para los intérpretes en tanto registros, vocabulario, logística, formas de contratación, organización de equipos, entre otras.
     p.mb-4(data-aos="fade") Se invita a conocer los ámbitos en los que un intérprete de lengua de señas puede prestar sus servicios.

@@ -154,7 +154,7 @@
                 .col.mb-3.mb-sm-0.text-white
                   h5.mb-0 Formas correctas de referirse a las personas con discapacidad
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/formas_correctas_referirse_personas_discapacidad.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -167,7 +167,7 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-2" data-aos="fade-down")
       .row.justify-content-center(titulo="Modelo de la prescindencia")
         .col-md-11.mb-4.mb-md-0
-          p Centra el problema de la discapacidad en la sociedad y no en el individuo. La discapacidad no se entiende en este modelo como un atributo de la persona, sino como un complejo conjunto de condiciones creadas por el entorno. Busca garantizar la participación de las personas con discapacidad en la vida social.
+          p Busca terminar la vida de las personas con discapacidad o marginarlas. Tiene bases religiosas por lo que se refieren a este grupo como demonios. La sociedad debe prescindir de las personas a través de la eugenesia (método para mejorar la raza). Señala que las personas con discapacidad no son necesarias, porque no contribuyen a la sociedad.
       .row.justify-content-center(titulo="Modelo tradicional")
         .col-md-11.mb-4.mb-md-0
           p La creencia general de que la discapacidad es un castigo divino, la voluntad de Dios o una prueba de este. Incluso se cree que es un castigo por un pecado cometido, por lo que las familias los esconden por vergüenza. Algunas de estas creencias están unidas a algún tipo de práctica religiosa o ritual.
@@ -220,7 +220,7 @@
               img(src='@/assets/curso/temas/tema4/slide3.png', alt='Enfoque territorial')
         .row.justify-content-center
           .col-md-4.mb-4.mb-md-0
-            h4 Enfoque diferencial
+            h4 Enfoque de desarrollo humano
             p Sitúa a las personas en el centro del proceso, como beneficiarias del desarrollo y agentes del progreso y la transformación.
           .col-md-7
             figure

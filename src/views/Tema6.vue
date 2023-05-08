@@ -60,7 +60,7 @@
 
 
     .subt-3er.mb-4(data-aos="fade")
-      h3.text-white.mb-0 Objetivos
+      h3.text-white.mb-0 Contratación (legislación, parafiscales)
 
     p(data-aos="fade") Una contratación establece la concreción de un contrato, es decir, un documento a través del cual se acuerda entre las partes intervinientes la ejecución de una actividad determinada, a cambio de la cual, la persona contratada recibirá una suma de dinero, la cual será estipulada en el documento.
 

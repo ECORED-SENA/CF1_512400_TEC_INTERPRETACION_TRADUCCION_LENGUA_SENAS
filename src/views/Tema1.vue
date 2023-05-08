@@ -20,7 +20,7 @@
       .col-md-9(data-aos="fade-right")
         .cajon.color-primario.mb-4
           .row.justify-content-center.align-items-center.p-3.p-md-0
-            .col-md-2.col-6
+            .col-md-2.col-6.mb-2.mb-md-0
               img.p-md-4(src='@/assets/curso/temas/tema1/ico.svg', alt='Icono decorativo')
             .col-md-10
               p.mb-0 La logística, cuando se ofrece el servicio de interpretación, requiere de una planeación que considere la magnitud del evento y los imprevistos que puedan ocurrir en la prestación del servicio.
@@ -150,7 +150,7 @@
     .subt-3er.mb-5(data-aos="fade")
       h3.text-white.mb-0 Objetivos
 
-    p(data-aos="fade") En el momento de prestar el servicio de interpretación ,es fundamental trazar unos objetivos claros, por ende, es importante analizar el contexto donde se llevará a cabo el servicio y a partir de allí dar respuesta a preguntas como ¿por qué?, ¿qué? y ¿a quién?, esto permitirá tener una visión general y realizar una planeación más detallada del proceso. En el siguiente material se profundiza en este aspecto:
+    p(data-aos="fade") En el momento de prestar el servicio de interpretación, es fundamental trazar unos objetivos claros, por ende, es importante analizar el contexto donde se llevará a cabo el servicio y a partir de allí dar respuesta a preguntas como ¿por qué?, ¿qué? y ¿a quién?, esto permitirá tener una visión general y realizar una planeación más detallada del proceso. En el siguiente material se profundiza en este aspecto:
 
     .row.fondo-tema1-4.align-items-center.py-4.py-md-5.mb-3
       .col-lg-12.col-12.px-lg-5.px-4
@@ -207,27 +207,27 @@
     p.mb-4(data-aos="fade") En esta parte del proceso se debe contar con la capacidad para responder a las siguientes preguntas:
 
     .row.justify-content-evenly.align-items-center.mb-5
-      .col-md-5(data-aos="fade-right")
+      .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema1/img4.svg', alt='Imagen decorativa')
       .col-md-7(data-aos="fade-left")
-        .row.justify-content-between.mx-md-2
-          .col-md-3.mb-4
-            .row.bg-3.align-items-center.b-radius.p-3
-              .col-md-5.mb-3.mb-md-0
+        .row.justify-content-between.mx-md-2.mx-4
+          .col-md-4.mb-4.px-xl-4.px-md-4
+            .row.bg-3.align-items-center.b-radius.p-lg-3
+              .col-4.px-4.py-2.col-md-4.p-md-1.col-xl-5.px-xl-3.mb-3.mb-md-0
                 img(src='@/assets/curso/temas/tema1/ico3.svg', alt='Icono decorativo')
-              .col-md-7.px-0
+              .col-8.col-md-7.px-0.text-center
                 h4.text-white.mb-0 ¿Cómo?
-          .col-md-3.mb-4
-            .row.bg-3.align-items-center.b-radius.p-3
-              .col-md-5.mb-3.mb-md-0
+          .col-md-4.mb-4.px-xl-4.px-md-4
+            .row.bg-3.align-items-center.b-radius.p-lg-3
+              .col-4.px-4.py-2.col-md-4.p-md-1.col-xl-5.px-xl-3.mb-3.mb-md-0
                 img(src='@/assets/curso/temas/tema1/ico3.svg', alt='Icono decorativo')
-              .col-md-7.px-0
+              .col-8.col-md-7.px-0.text-center
                 h4.text-white.mb-0 ¿Cuándo?
-          .col-md-3.mb-4
-            .row.bg-3.align-items-center.b-radius.p-3
-              .col-md-5.mb-3.mb-md-0
+          .col-md-4.mb-4.px-xl-4.px-md-4
+            .row.bg-3.align-items-center.b-radius.p-lg-3
+              .col-4.px-4.py-2.col-md-4.p-md-1.col-xl-5.px-xl-3.mb-3.mb-md-0
                 img(src='@/assets/curso/temas/tema1/ico3.svg', alt='Icono decorativo')
-              .col-md-7.px-0
+              .col-8.col-md-7.px-0.text-center
                 h4.text-white.mb-0 ¿Dónde?
         p De esta manera, se tendrán claros los medios y servicios para la interpretación, entre los que se deben tener en cuenta la presentación personal, la ubicación, el estado emocional del intérprete y el uso de plataformas tecnológicas como medios alternos para prestar dicho servicio.
         p Otro de los aspectos primordiales que permite establecer procesos de mejoramiento es la 
@@ -274,6 +274,7 @@
       .col-md-11
         p Evaluar las políticas de servicio facilita definir estándares, perfiles y protocolos de atención, esto permite corresponder de manera eficaz y eficiente a lo que se está ofertando y a lo que se está demandando.
         p Tener claras las políticas de servicio en este campo profesional, indica que los procedimientos e instructivos deben estar documentados y responder al paso a paso de lo que debe hacer el intérprete al momento de interactuar con sus usuarios, recibir una indicación de su coordinador, atender a una observación del intérprete de apoyo y cualquier otra particularidad propia del ejercicio de interpretación.
+      .px-md-2
         .cajon.color-acento-contenido
           .row.justify-content-evenly.align-items-center.p-3.p-md-4
             .col-md-10
@@ -311,22 +312,22 @@
             img(src='@/assets/curso/temas/tema1/slide1.png', alt='Imagen decorativa')
         .row.justify-content-center
           .col-md-4.py-4
-            p Todo
+            p Los intérpretes establecerán previamente aspectos organizacionales como la metodología que se utilizará en la interpretación, el uso de los medios visuales y una ubicación estratégica del intérprete pasivo que permita apoyar al intérprete activo en los datos que se puedan pasar por alto.
           .col-md-7
             img(src='@/assets/curso/temas/tema1/slide2.png', alt='Imagen decorativa')
         .row.justify-content-center
           .col-md-4.py-4
-            p Todo
+            p Pasados veinte minutos, el intérprete de relevo se pondrá detrás del intérprete activo evitando ser un distractor y hará un corto y sutil toque en el hombro, para que este finalice la idea que está transmitiendo y así cambiar el rol, o podrían aprovechar el cambio si el expositor hace una pausa.
           .col-md-7
             img(src='@/assets/curso/temas/tema1/slide3.png', alt='Imagen decorativa')
         .row.justify-content-center
           .col-md-4.py-4
-            p Todo
+            p El intérprete de apoyo debe estar atento a los datos que exigen atención más detallada de lo normal, como las fechas, los números, nombres con apellidos, cuando el intérprete activo no recuerda una seña o no la sabe, o cuando el intérprete activo tiene necesidad de finalizar antes de tiempo su intervención.
           .col-md-7
             img(src='@/assets/curso/temas/tema1/slide4.png', alt='Imagen decorativa')
         .row.justify-content-center
           .col-md-4.py-4
-            p Todo
+            p El intérprete de apoyo es, también, en la mayoría de los casos, el intérprete de relevo; y lo que hace que esté en completa conexión con la información que se está interpretando, pues debe darle continuidad al tema atinadamente con el hilo conductor de la información, sin perder la idea del mensaje.
           .col-md-7
             img(src='@/assets/curso/temas/tema1/slide5.png', alt='Imagen decorativa')
 
