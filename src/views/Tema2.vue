@@ -74,25 +74,25 @@
                 figure.d-md-none
                   img(src='@/assets/curso/temas/tema2/img-mob-infog.svg', alt='Niveles de servicio')  
 
-              .tarjeta.bg-10.p-3(x="10%" y="72%" numero="")
+              .tarjeta.bg-10.p-3(x="9%" y="79%" numero="+")
                 .h4.mb-2 1- Eficacia
                 p.mb-0 Obtención real de resultados y respuestas.
-              .tarjeta.bg-10.p-3(x="10%" y="91.4%" numero="")
+              .tarjeta.bg-10.p-3(x="9%" y="98%" numero="+")
                 .h4.mb-2 2 - Rapidez
                 p.mb-0 El tiempo es un factor fundamental, siempre escaso y valioso.
-              .tarjeta.bg-10.p-3(x="30.5%" y="91.4%" numero="")
+              .tarjeta.bg-10.p-3(x="30%" y="98%" numero="+")
                 .h4.mb-2 3 - Facilidad
                 p.mb-0 Simplicidad, comodidad y ahorro de esfuerzo. 
-              .tarjeta.bg-10.p-3(x="50.9%" y="91.4%" numero="")
+              .tarjeta.bg-10.p-3(x="50%" y="98%" numero="+")
                 .h4.mb-2 4 - Autonomía
                 p.mb-0 Tendencia a preferir, en lo posible, sistemas de autoservicio. 
-              .tarjeta.bg-10.p-3(x="71.4%" y="91.4%" numero="")
+              .tarjeta.bg-10.p-3(x="71%" y="98%" numero="+")
                 .h4.mb-2 5 - Concentración
                 p.mb-0 Encontrar la respuesta completa en un sitio, por una sola vía. 
-              .tarjeta.bg-10.p-3(x="91.7%" y="91.4%" numero="")
+              .tarjeta.bg-10.p-3(x="91%" y="98%" numero="+")
                 .h4.mb-2 6 - Fiabilidad
                 p.mb-0 Garantías sobre el valor y calidad de la información recibida. 
-              .tarjeta.bg-10.p-3(x="91.7%" y="72%" numero="")
+              .tarjeta.bg-10.p-3(x="91%" y="79%" numero="+")
                 .h4.mb-2 7 - Trato individualizado
                 p.mb-0 Atención a las peculiaridades personales.
 

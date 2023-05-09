@@ -56,7 +56,7 @@
               p.mb-0 #[b Figura 2.] Ciclo PHVA
           .col-md-5
             figure
-              img.mx-auto(src='@/assets/curso/temas/tema6/fig2.svg' alt='Ciclo PHVA')
+              img.mx-auto(src='@/assets/curso/temas/tema6/fig2.png' alt='Ciclo PHVA')
 
 
     .subt-3er.mb-4(data-aos="fade")
