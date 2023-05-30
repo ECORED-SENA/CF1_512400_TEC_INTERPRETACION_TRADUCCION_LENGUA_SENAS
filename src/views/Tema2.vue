@@ -25,7 +25,7 @@
                   .bloque-texto-b__texto
                     i.fas.fa-quote-left
                     h4.mb-3 El Estado colombiano reconoce la Lengua Manual Colombiana, como idioma propio de la Comunidad Sorda del País  #[br]#[br]
-                    h5.text-right López, (2015).
+                    h5.text-right Ley 324 de 1996
                     i.fas.fa-quote-right
             .row.justify-content-center 
               .col-md-11

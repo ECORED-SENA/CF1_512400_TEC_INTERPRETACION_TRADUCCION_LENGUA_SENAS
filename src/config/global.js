@@ -324,7 +324,8 @@ export default {
         {
           nombre: 'Yerson Fabian Zarate Saavedra',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
