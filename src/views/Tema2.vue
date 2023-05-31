@@ -15,7 +15,7 @@
         p.mb-0 Hablar de atención al usuario no es solo definir los parámetros relacionados con la comunicación interna o externa, y sus correspondientes canales para garantizar una adecuada y oportuna respuesta, 
           b.t-red es también proporcionar los estándares de comunicación y de la proyección de una imagen personal, segura, eficiente y eficaz, para satisfacer de manera oportuna los requerimientos que solicitan nuestros usuarios.
 
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-3
       .col-md-8.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta.bg-9.box-shadow.py-4.px-3
           SlyderA(tipo="b")
@@ -39,14 +39,17 @@
         img(src='@/assets/curso/temas/tema2/img2.png', alt='Imagen decorativa')
 
 
-    .subt-3er.mb-5(data-aos="fade")
-      h3.text-white.mb-0 Análisis de los destinatarios
+    Separador
+
+    #t_2_1
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 2.1 Análisis de los destinatarios
 
     .row.align-items-center
       .col-md-5.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema2/img3.png', alt='Imagen decorativa')
       .col-md-7.mb-4(data-aos="fade-left")
-        p Es importante dar mejor precisión al concepto de atención al usuario, haga clic en el siguiente botón para conocerla:
+        p Es importante dar mejor precisión al concepto de atención al usuario, este se refiere a: 
         .cajon.color-primario.mb-4
           .row.justify-content-evenly.align-items-center.p-3.p-md-4
             .col-md-10
@@ -161,8 +164,11 @@
         p La política de servicio al cliente debe ser compartida con los empleados, puede ser a través de una capacitación o charla programada, donde todos escuchen el procedimiento que deben seguir para atender la solicitud de un cliente, lo que permitirá un mayor control, seguimiento y posterior evaluación de esta.
 
 
-    .subt-3er.mb-4(data-aos="fade")
-      h3.text-white.mb-0 Etiqueta y protocolo en el servicio de interpretación
+    Separador
+
+    #t_2_2
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 2.2 Etiqueta y protocolo en el servicio de interpretación
 
     p.mb-2(data-aos="fade") Cuando se habla de etiqueta y protocolo es necesario mencionar el Código Deontológico, es decir:
 

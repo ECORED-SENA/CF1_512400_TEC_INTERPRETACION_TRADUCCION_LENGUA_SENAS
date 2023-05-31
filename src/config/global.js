@@ -42,6 +42,43 @@ export default {
         numero: '1',
         titulo: 'Logística del servicio',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '1.1',
+            titulo: 'Etapas o fases',
+            hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Criterios',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Costos',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Objetivos',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Medios y servicios',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Planificación y producción',
+            hash: 't_1_6',
+          },
+          {
+            numero: '1.7',
+            titulo: 'Logística del servicio de interpretación',
+            hash: 't_1_7',
+          },
+        ],
       },
 
       {
@@ -49,18 +86,69 @@ export default {
         numero: '2',
         titulo: 'Atención al usuario',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Análisis de los destinatarios',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Etiqueta y protocolo en el servicio de interpretación',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
         titulo: 'Fundamentación conceptual de comunidad y cultura',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Grupos minoritarios ',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Comunidad y cultura de las personas sordas',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Características de las personas sordas',
+            hash: 't_3_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
         titulo: 'Inclusión y discapacidad',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: '¿Qué permite la inclusión?',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Discapacidad',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Modelos de discapacidad',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Enfoques en la discapacidad',
+            hash: 't_4_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema5',
@@ -74,6 +162,13 @@ export default {
         titulo:
           'Aspectos administrativos y contratación (legislación, parafiscales)',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Contratación (legislación, parafiscales)',
+            hash: 't_6_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema7',

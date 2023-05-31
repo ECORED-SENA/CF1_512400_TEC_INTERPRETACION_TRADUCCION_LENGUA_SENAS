@@ -83,8 +83,11 @@
                 | en cada uno de sus componentes: calidad, variedad, costo, tiempo de respuesta, disponibilidad. Para lograr esto, es necesario conocer el contexto de las necesidades y gustos de los clientes, para el perfeccionamiento continuo del sistema de gestión logística.
 
 
-    .subt-3er.mb-5(data-aos="fade")
-      h3.text-white.mb-0 Etapas o fases
+    Separador
+
+    #t_1_1
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 1.1 Etapas o fases
 
     p(data-aos="fade") Para que un servicio de interpretación pueda aplicarse eficazmente, primero es necesario conocer el marco normativo que regula esta función y la definición que de esta se tiene: 
       b.t-red “Intérprete para Sordos” 
@@ -96,7 +99,7 @@
 
     .row.fondo-tema1-2.align-items-center.py-4.py-md-5
       .col-lg-12.col-12.px-lg-5.px-4
-        .row.justify-content-center.mb-4
+        .row.justify-content-center
 
           .col-md-12.d-flex.justify-content-center.mb-1
             .subt-boc.mb-4(data-aos="fade")
@@ -117,8 +120,11 @@
                   p.mb-0 “El Estado garantizará y proveerá la ayuda de intérpretes idóneos para que sea este un medio a través del cual las personas sordas puedan acceder a todos los servicios que como ciudadanos colombianos les confiere la Constitución. Para ello el Estado organizará a través de entes oficiales o por convenios con asociaciones de sordos, la presencia de intérpretes para el acceso a los servicios mencionados” Ley 324 (1996).
 
 
-    .subt-3er.mb-5(data-aos="fade")
-      h3.text-white.mb-0 Criterios
+    Separador
+
+    #t_1_2
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 1.2 Criterios
 
     p.mb-4(data-aos="fade") Los criterios en el proceso logístico permiten identificar el grado de satisfacción del cliente, estos abarcan:  
 
@@ -137,8 +143,11 @@
               img.mx-auto(src='@/assets/curso/temas/tema1/mob-fig2.svg' alt='Criterios en el proceso logístico')
 
 
-    .subt-3er.mb-5(data-aos="fade")
-      h3.text-white.mb-0 Costos
+    Separador
+
+    #t_1_3
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 1.3 Costos
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-4.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
@@ -147,8 +156,11 @@
         p.mb-0 Son la suma de aquellos costos ocultos que se ocasionan durante la prestación del servicio de interpretación. Por ejemplo, un costo oculto es el alquiler de luces específicamente para visibilizar al intérprete, dado que la estética del evento propone una luz tenue que no beneficia al servicio de interpretación. Teniendo en cuenta los parámetros estratégicos de costos logísticos, son varios los costos que conlleva un servicio de interpretación: costos variables, costos individualizados, nivel de calidad, subsistemas relacionados, costo total, entre otros.
 
 
-    .subt-3er.mb-5(data-aos="fade")
-      h3.text-white.mb-0 Objetivos
+    Separador
+
+    #t_1_4
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 1.4 Objetivos
 
     p(data-aos="fade") En el momento de prestar el servicio de interpretación, es fundamental trazar unos objetivos claros, por ende, es importante analizar el contexto donde se llevará a cabo el servicio y a partir de allí dar respuesta a preguntas como ¿por qué?, ¿qué? y ¿a quién?, esto permitirá tener una visión general y realizar una planeación más detallada del proceso. En el siguiente material se profundiza en este aspecto:
 
@@ -201,8 +213,11 @@
                     | Humanos.
 
 
-    .subt-3er.mb-5(data-aos="fade")
-      h3.text-white.mb-0 Medios y servicios
+    Separador
+
+    #t_1_5
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 1.5 Medios y servicios
 
     p.mb-4(data-aos="fade") En esta parte del proceso se debe contar con la capacidad para responder a las siguientes preguntas:
 
@@ -284,8 +299,11 @@
             
 
 
-    .subt-3er.mb-5(data-aos="fade")
-      h3.text-white.mb-0 Planificación y producción
+    Separador
+
+    #t_1_6
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 1.6 Planificación y producción
 
     p.mb-4(data-aos="fade") Después de tener claro el por qué, qué, a quién, cómo, cuándo y dónde, es necesario aplicar los procesos logísticos de acuerdo con el contexto y el usuario; se invita a conocer los aspectos que se deben tener en cuenta durante este paso:
 
@@ -295,8 +313,11 @@
       img.mx-auto(src='@/assets/curso/temas/tema1/mob-fig3.svg' alt='Procesos Logísticos')
 
 
-    .subt-3er.mb-5(data-aos="fade")
-      h3.text-white.mb-0 Logística del servicio de interpretación
+    Separador
+
+    #t_1_7
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 1.7 Logística del servicio de interpretación
 
     p(data-aos="fade") Entender y esquematizar los conceptos relacionados con la organización de un evento en el que se presta un servicio de interpretación, aportará mayor claridad al desarrollo del mismo y respecto a los roles que cumplen los participantes, en los que se incluyen: 
       b.t-blue el coordinador, los intérpretes activos y los intérpretes de apoyo. 

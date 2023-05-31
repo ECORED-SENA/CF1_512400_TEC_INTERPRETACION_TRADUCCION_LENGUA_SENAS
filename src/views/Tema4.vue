@@ -11,7 +11,7 @@
     p.mb-4(data-aos="fade") Aquí 
       b.t-red es importante tener claridad con respecto a dichos términos, comenzando por el de inclusión:
 
-    .row.justify-content-evenly.align-items-center.mb-5
+    .row.justify-content-evenly.align-items-center
       .col-md-9(data-aos="fade-right")
         .cajon.color-primario
           .row.justify-content-evenly.p-3.p-md-5.p-lg-5
@@ -24,10 +24,13 @@
         img(src='@/assets/curso/temas/tema4/img.png', alt='Imagen decorativa')
 
 
-    .subt-3er.mb-4(data-aos="fade")
-      h3.text-white.mb-0 ¿Qué permite la inclusión?
+    Separador
 
-    .row.align-items-center.mb-5
+    #t_4_1
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 4.1 ¿Qué permite la inclusión?
+
+    .row.align-items-center
       .col-md-3.mb-3.mb-md-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema4/img2.png', alt='Imagen decorativa')
       .col-md-9(data-aos="fade-left")
@@ -43,8 +46,11 @@
             | Proporcionar un acceso equitativo, revisando procesos constantemente y valorando el aporte de cada persona a la sociedad.
 
 
-    .subt-3er.mb-4(data-aos="fade")
-      h3.text-white.mb-0 Discapacidad
+    Separador
+
+    #t_4_2
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 4.2 Discapacidad
 
     p.mb-4(data-aos="fade") El Art. 1° de la Convención Internacional sobre los Derechos de las Personas con Discapacidad, el cual fue aprobado en 2006 por la Asamblea General de las Naciones Unidas y en Argentina en 2008 a través de la Ley 26378, aclara este término así:
 
@@ -143,7 +149,7 @@
 
     p.mb-4(data-aos="fade") Es fundamental atender al lenguaje que se usa en relación con las personas en situación de discapacidad para no ofender o faltar a la dignidad de estos grupos. En el siguiente documento, se exponen las formas actuales y correctas de referirse a las personas con discapacidad de acuerdo con su diagnóstico.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-md-8(data-aos="fade-down")
         .tarjeta.bg-gradient.p-3
           .row.justify-content-around.align-items-center
@@ -159,12 +165,15 @@
                     i.fas.fa-file-download
 
 
-    .subt-3er.mb-4(data-aos="fade")
-      h3.text-white.mb-0 Modelos de discapacidad
+    Separador
+
+    #t_4_3
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 4.3 Modelos de discapacidad
 
     p.mb-4(data-aos="fade") El concepto diacrónico de discapacidad ha trascendido en diferentes modelos o normas con visiones y marcos de actuación que han influido en la manera de ver, apoyar y guiar las prácticas que la sociedad ha adoptado sobre la población con discapacidad. Los principales modelos son:
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-2" data-aos="fade-down")
+    AcordionA(tipo="a" clase-tarjeta="tarjeta bg-2" data-aos="fade-down")
       .row.justify-content-center(titulo="Modelo de la prescindencia")
         .col-md-11.mb-4.mb-md-0
           p Busca terminar la vida de las personas con discapacidad o marginarlas. Tiene bases religiosas por lo que se refieren a este grupo como demonios. La sociedad debe prescindir de las personas a través de la eugenesia (método para mejorar la raza). Señala que las personas con discapacidad no son necesarias, porque no contribuyen a la sociedad.
@@ -188,8 +197,11 @@
           p Considera que es posible establecer un lazo entre los distintos niveles en la vida de un individuo (biológico, personal y social) que sustentan la discapacidad. Clasifica y mide la discapacidad sin estigmatizar.
 
 
-    .subt-3er.mb-4(data-aos="fade")
-      h3.text-white.mb-0 Enfoques en la discapacidad
+    Separador
+
+    #t_4_4
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 4.4 Enfoques en la discapacidad
 
     p(data-aos="fade") El enfoque, orientación o punto de vista que analiza la discapacidad e inclusión social en Colombia ha superado el enfoque de las políticas de asistencia o protección, y ha trascendido hacia una visión de desarrollo humano con un enfoque diferencial y de derechos; dimensionando todos los aspectos de la vida de una persona, incluyendo la relación con su familia, el contexto político, cultural, social y económico.
 

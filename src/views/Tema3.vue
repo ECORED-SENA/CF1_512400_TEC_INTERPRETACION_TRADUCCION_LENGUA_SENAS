@@ -8,19 +8,22 @@
       h1 Fundamentación conceptual de comunidad y cultura
 
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img.jpg')})`}")
       .bloque-texto-g__texto.p-4.p-md-5
         p.mb-0 Es fundamental conocer cómo se establecen las comunidades, grupos, territorios dentro del Estado, esto permitirá identificar cómo se ha venido contemplando dentro de estos diversos contextos, la comunidad sorda, pues aún existen muchos vacíos al respecto, entender en qué consiste una minoría, una comunidad etc., permitirá que logremos identificar sus características más importantes y su relación con los entornos de discapacidad.
+    
+    Separador
 
     .row.fondo-tema3.align-items-center.pt-2.mb-3
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4
 
           .col-md-12
-            .subt-3er.mb-5(data-aos="fade")
-              h3.text-white.mb-0 Grupos minoritarios
+            #t_3_1
+            .titulo-segundo.color-acento-contenido(data-aos="fade")
+              h2 3.1 Grupos minoritarios
 
             p(data-aos="fade") De acuerdo con la Acnur, Agencia de la ONU para los refugiados (2020), “una minoría es un grupo étnico, religioso o lingüístico, en menor número que el resto de la población”. 
             h5.mb-5.t-red(data-aos="fade") Según Capotorti (1977), las minorías pueden incluir algunos grupos, a saber:
@@ -81,7 +84,7 @@
       | suscrito por Colombia.
 
 
-    .row.fondo-tema3-2.align-items-center.pt-2.mb-5
+    .row.fondo-tema3-2.align-items-center.pt-2
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4
 
@@ -119,9 +122,11 @@
             .col-md-4(data-aos="fade-left")
               img(src='@/assets/curso/temas/tema3/img4.svg', alt='Imagen decorativa') 
 
+    Separador
 
-    .subt-3er.mb-4(data-aos="fade")
-      h3.text-white.mb-0 Comunidad y cultura de las personas sordas
+    #t_3_2
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 3.2 Comunidad y cultura de las personas sordas
 
     p.mb-4(data-aos="fade") “El caso de las personas sordas es particularmente interesante porque existen concepciones de la sordera, socialmente construidas, que están en tensión, y tienen su traslación específica en términos de inclusión, redistribución y reconocimiento de las personas pertenecientes a esta minoría” (Pérez de la Fuente, 2014).
     h5.t-red.mb-5(data-aos="fade") A continuación, se presentan las características que habitualmente se atribuyen a los grupos minoritarios:
@@ -240,8 +245,11 @@
                     | Sordos que se consideran bilingües
 
 
-    .subt-3er.mb-4(data-aos="fade")
-      h3.text-white.mb-0 Características de las personas sordas
+    Separador
+
+    #t_3_3
+    .titulo-segundo.color-acento-contenido(data-aos="fade")
+      h2 3.3 Características de las personas sordas
     
     .row.justify-content-evenly.align-items-center.p-3.p-md-2.mb-3
       .col-md-6.mb-4(data-aos="fade-right")
