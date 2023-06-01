@@ -212,7 +212,7 @@ export default {
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar HTML',
+        titulo: 'Descargar HTML',        
         download: 'downloads/material.zip',
       },
       {
